@@ -23,7 +23,12 @@
 }
 .aboutme{
     border:1px #749abd;
+  
     
+}
+
+.about {
+  background-color: #749abd;
 }
 .footer{
  display:flex;
