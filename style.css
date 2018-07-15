@@ -1,0 +1,31 @@
+.row{   
+
+    background-color:#c6d3df;
+    color:#3e5569;
+    font-size:20px;
+    font-family: 'Oleo Script', cursive;
+}
+.headshot{
+    width:20%;
+    /*height:50px;*/
+   
+}
+.mid{
+    background-color:white;
+    color:#749abd;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+    display:flex;
+    justify-content:space-around;
+    font-family: 'Oleo Script', cursive;
+}
+.aboutme{
+    border:1px #749abd;
+    
+}
+.footer{
+ display:flex;
+ justify-content:space-around;
+}
